@@ -1,0 +1,2 @@
+# solmechminteth
+what im learning
